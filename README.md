@@ -1,0 +1,3 @@
+# konamiCode
+
+Key sequence detection
